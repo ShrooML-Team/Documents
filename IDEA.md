@@ -21,6 +21,7 @@
 - **Classements et badges** : gamification avec points, niveaux et badges selon le nombre d’identifications correctes.  
 - **Soumission d’observations** : permettre aux utilisateurs d’envoyer leurs photos et identifications avec un score de confiance.  
 - **Commentaires communautaires** : permettre aux autres utilisateurs de valider ou corriger les identifications soumises.  
+- **Quête quotidienne avec niveau** : Des quêtes quotidiennes comme faire un quiz ou prendre en photo un champignon précis donnant de l'exp et permettant un système de niveau et possiblement récompense de décoration de profile.
 
 ## Assistance & Safety
 - **Mode tutoriel photo** : aide visuelle pour montrer comment placer le champignon dans le cadre, angle idéal, luminosité, etc.  
